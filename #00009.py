@@ -12,6 +12,3 @@ class Solution:
             return True
         else:
             return False
-
-
-print(Solution.isPalindrome(self=True, x=126))

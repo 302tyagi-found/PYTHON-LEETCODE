@@ -13,6 +13,3 @@ class Solution:
                 return [output[diff], i]
             else:
                 output[numbers[i]] = i
-
-
-print(Solution.twoSum(self=True, numbers=[5, 4, 3, 2, 1], target=5))

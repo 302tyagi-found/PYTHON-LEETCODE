@@ -6,6 +6,3 @@ class Solution:
             return haystack.find(needle)
         else:
             return -1
-
-
-print(Solution.strStr(self=True, haystack="hello", needle="ll"))

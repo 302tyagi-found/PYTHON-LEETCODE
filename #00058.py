@@ -12,6 +12,3 @@ class Solution:
             else:
                 break
         return count
-
-
-print(Solution.lengthOfLastWord(self=True, s="hello there "))
