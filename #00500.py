@@ -20,8 +20,3 @@ class Solution:
                 output.append(word)
 
         return output
-
-
-sol = Solution()
-words = ["asdfghjkl", "qwertyuiop", "zxcvbnm"]
-print(sol.findWords(words))
