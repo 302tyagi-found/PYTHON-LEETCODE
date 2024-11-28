@@ -5,6 +5,7 @@
 # You can move up, down, left, or right from and to an empty cell.
 #
 # Return the minimum number of obstacles to remove so you can move from the upper left corner (0, 0) to the lower right corner (m - 1, n - 1).
+from collections import deque
 from typing import List
 
 
